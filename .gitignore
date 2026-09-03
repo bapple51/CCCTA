@@ -76,3 +76,8 @@ DerivedDataCache/*
 
 # Generated intermediates from Tools/gltf2obj.py (regenerate, do not commit)
 SourceArt/Models/_Converted/
+
+# Twinmotion / Datasmith imports (very large - keep out of git)
+Content/Twinmotion/
+pipsqueak_Assets/
+pipsqueak.udatasmith
